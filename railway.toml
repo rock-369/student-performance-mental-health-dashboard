@@ -1,0 +1,24 @@
+# Railway.app Configuration
+# Full-stack deployment configuration
+
+version: "1"
+
+# Backend Service
+[backend]
+nixPacks = true
+startCommand = "uvicorn app:app --host 0.0.0.0 --port $PORT"
+healthcheckPath = "/health"
+healthcheckTimeout = 30
+
+[service]
+name = "student-dashboard-api"
+internalHostname = "backend"
+
+[service.variables]
+ENVIRONMENT = "production"
+PYTHON_VERSION = "3.11"
+
+# Build settings
+[build]
+builder = "NIXPACKS"
+watchPatterns = ["backend/**"]

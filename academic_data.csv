@@ -1,0 +1,81 @@
+student_id,student_name,department,semester,subject,subject_marks,attendance_percentage,assignment_scores,internal_exam_scores
+STU001,Arun Kumar,Computer Science,5,Data Structures,85,92,88,82
+STU001,Arun Kumar,Computer Science,5,Algorithms,78,88,82,75
+STU001,Arun Kumar,Computer Science,5,Database Systems,92,95,90,88
+STU001,Arun Kumar,Computer Science,5,Operating Systems,70,78,72,68
+STU002,Priya Sharma,Computer Science,5,Data Structures,65,72,60,58
+STU002,Priya Sharma,Computer Science,5,Algorithms,55,65,52,50
+STU002,Priya Sharma,Computer Science,5,Database Systems,62,70,58,55
+STU002,Priya Sharma,Computer Science,5,Operating Systems,48,60,45,42
+STU003,Rahul Verma,Electronics,3,Circuit Theory,88,90,85,82
+STU003,Rahul Verma,Electronics,3,Digital Electronics,92,94,90,88
+STU003,Rahul Verma,Electronics,3,Signals and Systems,78,82,75,72
+STU003,Rahul Verma,Electronics,3,Microprocessors,85,88,82,80
+STU004,Sneha Patel,Computer Science,5,Data Structures,42,55,40,38
+STU004,Sneha Patel,Computer Science,5,Algorithms,38,48,35,32
+STU004,Sneha Patel,Computer Science,5,Database Systems,45,52,42,40
+STU004,Sneha Patel,Computer Science,5,Operating Systems,35,45,32,30
+STU005,Vikram Singh,Electronics,3,Circuit Theory,72,80,70,68
+STU005,Vikram Singh,Electronics,3,Digital Electronics,68,75,65,62
+STU005,Vikram Singh,Electronics,3,Signals and Systems,58,65,55,52
+STU005,Vikram Singh,Electronics,3,Microprocessors,62,70,60,58
+STU006,Ananya Reddy,Mechanical,4,Thermodynamics,95,98,92,90
+STU006,Ananya Reddy,Mechanical,4,Fluid Mechanics,88,92,85,82
+STU006,Ananya Reddy,Mechanical,4,Machine Design,90,95,88,85
+STU006,Ananya Reddy,Mechanical,4,Manufacturing,85,90,82,80
+STU007,Karthik Nair,Computer Science,5,Data Structures,52,62,50,48
+STU007,Karthik Nair,Computer Science,5,Algorithms,48,58,45,42
+STU007,Karthik Nair,Computer Science,5,Database Systems,55,65,52,50
+STU007,Karthik Nair,Computer Science,5,Operating Systems,45,55,42,40
+STU008,Meera Iyer,Electronics,3,Circuit Theory,35,42,32,30
+STU008,Meera Iyer,Electronics,3,Digital Electronics,40,48,38,35
+STU008,Meera Iyer,Electronics,3,Signals and Systems,32,40,30,28
+STU008,Meera Iyer,Electronics,3,Microprocessors,38,45,35,32
+STU009,Arjun Das,Mechanical,4,Thermodynamics,75,82,72,70
+STU009,Arjun Das,Mechanical,4,Fluid Mechanics,70,78,68,65
+STU009,Arjun Das,Mechanical,4,Machine Design,78,85,75,72
+STU009,Arjun Das,Mechanical,4,Manufacturing,72,80,70,68
+STU010,Divya Menon,Computer Science,5,Data Structures,88,92,85,82
+STU010,Divya Menon,Computer Science,5,Algorithms,82,88,80,78
+STU010,Divya Menon,Computer Science,5,Database Systems,90,94,88,85
+STU010,Divya Menon,Computer Science,5,Operating Systems,85,90,82,80
+STU011,Rohit Gupta,Electronics,3,Circuit Theory,28,35,25,22
+STU011,Rohit Gupta,Electronics,3,Digital Electronics,32,40,30,28
+STU011,Rohit Gupta,Electronics,3,Signals and Systems,25,32,22,20
+STU011,Rohit Gupta,Electronics,3,Microprocessors,30,38,28,25
+STU012,Kavitha Rao,Mechanical,4,Thermodynamics,82,88,80,78
+STU012,Kavitha Rao,Mechanical,4,Fluid Mechanics,78,85,75,72
+STU012,Kavitha Rao,Mechanical,4,Machine Design,85,90,82,80
+STU012,Kavitha Rao,Mechanical,4,Manufacturing,80,88,78,75
+STU013,Suresh Kumar,Computer Science,5,Data Structures,60,70,58,55
+STU013,Suresh Kumar,Computer Science,5,Algorithms,55,65,52,50
+STU013,Suresh Kumar,Computer Science,5,Database Systems,65,72,62,60
+STU013,Suresh Kumar,Computer Science,5,Operating Systems,58,68,55,52
+STU014,Lakshmi Devi,Electronics,3,Circuit Theory,92,96,90,88
+STU014,Lakshmi Devi,Electronics,3,Digital Electronics,88,92,85,82
+STU014,Lakshmi Devi,Electronics,3,Signals and Systems,85,88,82,80
+STU014,Lakshmi Devi,Electronics,3,Microprocessors,90,94,88,85
+STU015,Nikhil Joshi,Mechanical,4,Thermodynamics,45,55,42,40
+STU015,Nikhil Joshi,Mechanical,4,Fluid Mechanics,40,50,38,35
+STU015,Nikhil Joshi,Mechanical,4,Machine Design,48,58,45,42
+STU015,Nikhil Joshi,Mechanical,4,Manufacturing,42,52,40,38
+STU016,Pooja Singh,Computer Science,5,Data Structures,72,80,70,68
+STU016,Pooja Singh,Computer Science,5,Algorithms,68,75,65,62
+STU016,Pooja Singh,Computer Science,5,Database Systems,75,82,72,70
+STU016,Pooja Singh,Computer Science,5,Operating Systems,70,78,68,65
+STU017,Amit Sharma,Electronics,3,Circuit Theory,55,62,52,50
+STU017,Amit Sharma,Electronics,3,Digital Electronics,50,58,48,45
+STU017,Amit Sharma,Electronics,3,Signals and Systems,48,55,45,42
+STU017,Amit Sharma,Electronics,3,Microprocessors,52,60,50,48
+STU018,Ritu Agarwal,Mechanical,4,Thermodynamics,68,75,65,62
+STU018,Ritu Agarwal,Mechanical,4,Fluid Mechanics,62,70,60,58
+STU018,Ritu Agarwal,Mechanical,4,Machine Design,70,78,68,65
+STU018,Ritu Agarwal,Mechanical,4,Manufacturing,65,72,62,60
+STU019,Sanjay Pillai,Computer Science,5,Data Structures,38,48,35,32
+STU019,Sanjay Pillai,Computer Science,5,Algorithms,35,45,32,30
+STU019,Sanjay Pillai,Computer Science,5,Database Systems,40,50,38,35
+STU019,Sanjay Pillai,Computer Science,5,Operating Systems,32,42,30,28
+STU020,Harini Krishnan,Electronics,3,Circuit Theory,80,85,78,75
+STU020,Harini Krishnan,Electronics,3,Digital Electronics,75,82,72,70
+STU020,Harini Krishnan,Electronics,3,Signals and Systems,72,78,70,68
+STU020,Harini Krishnan,Electronics,3,Microprocessors,78,85,75,72

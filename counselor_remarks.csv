@@ -1,0 +1,4 @@
+student_id,counselor_name,remark,created_at,category
+STU010,Dr. Sarah Johnson,Student showing signs of stress. Scheduled follow-up meeting for next week.,2026-01-05T10:30:00,mental_health
+STU021,Dr. Sarah Johnson,Academic pressure noted. Recommended reduced course load for next semester.,2026-01-04T14:15:00,academic
+STU006,Dr. Michael Chen,Discussed coping strategies. Student seems responsive to support.,2026-01-03T11:00:00,counseling

@@ -1,0 +1,91 @@
+student_id,mood_score,study_hours,sleep_hours,text_feedback,recorded_date
+STU001,4,6,7,"I feel confident about my studies. The coursework is challenging but manageable. Looking forward to the upcoming project!",2024-01-15
+STU001,5,7,8,"Had a great week! Completed all assignments on time and feeling motivated. The study group sessions are really helping.",2024-01-22
+STU001,4,6,7,"Feeling good about my progress. Some stress about upcoming exams but I have a solid study plan.",2024-01-29
+STU002,3,4,6,"Struggling a bit with the coursework. Need to put in more effort. Feeling overwhelmed sometimes.",2024-01-15
+STU002,2,3,5,"This week was tough. Falling behind on assignments and feeling stressed. Need to manage my time better.",2024-01-22
+STU002,3,5,6,"Trying to catch up. Still stressed but making some progress. The workload feels heavy.",2024-01-29
+STU003,5,8,8,"Excellent week! Really enjoying my final year project. Feeling accomplished and motivated to learn more.",2024-01-15
+STU003,5,7,7,"Everything is going smoothly. Great collaboration with my team. Feeling very positive about graduation.",2024-01-22
+STU003,4,6,7,"Slight pressure due to project deadlines but overall feeling confident. Good support from professors.",2024-01-29
+STU004,3,4,5,"Finding mechanical engineering challenging. Some concepts are hard to grasp. Feeling a bit anxious about practicals.",2024-01-15
+STU004,2,3,4,"Very stressed this week. Failed a test and feeling demotivated. Sleep has been poor due to worry.",2024-01-22
+STU004,2,4,5,"Still struggling. Need more help from tutors. Feeling isolated and overwhelmed with the workload.",2024-01-29
+STU005,5,8,8,"Loving my first year! Everything is new and exciting. Making great friends and enjoying the learning.",2024-01-15
+STU005,5,7,8,"Another fantastic week. Top of my class in programming. Feeling incredibly motivated and happy!",2024-01-22
+STU005,4,6,7,"Good week overall. First minor setback on an assignment but I learned from it. Still feeling positive.",2024-01-29
+STU006,2,2,4,"Really struggling with electronics. Thinking about changing my major. Feeling lost and confused about my future.",2024-01-15
+STU006,1,2,4,"This is the worst week ever. Failed multiple assignments. Feeling hopeless and considering dropping out.",2024-01-22
+STU006,2,3,5,"Talked to a counselor. Feeling slightly better but still very stressed. Need to find study strategies that work.",2024-01-29
+STU007,5,8,7,"Final year is intense but I'm loving every moment. Machine learning project is going great!",2024-01-15
+STU007,5,9,7,"Received an internship offer! So happy and motivated. Hard work is paying off finally.",2024-01-22
+STU007,5,7,8,"Feeling accomplished and ready for the industry. Great support system of friends and family.",2024-01-29
+STU008,4,5,7,"First year is interesting. Adjusting to college life and making new friends. Feeling optimistic.",2024-01-15
+STU008,3,4,6,"Homesick this week. Missing family but trying to focus on studies. Feeling a bit lonely.",2024-01-22
+STU008,4,5,7,"Better now! Made some good friends and feeling more settled. The workshops are really interesting.",2024-01-29
+STU009,4,6,7,"Enjoying the electronics courses. The lab work is fascinating. Feeling engaged and curious.",2024-01-15
+STU009,4,5,6,"Normal week. Some stress about assignments but manageable. Good balance between study and rest.",2024-01-22
+STU009,4,6,7,"Productive week. Completed a challenging project and feeling proud. Looking forward to next semester.",2024-01-29
+STU010,1,2,4,"I hate programming. Everything seems so difficult. Can't keep up with the class and feeling stupid.",2024-01-15
+STU010,1,1,3,"Complete breakdown this week. Didn't attend classes. Feeling extremely anxious and depressed.",2024-01-22
+STU010,2,2,4,"Seeking help now. Talked to mental health services. Still struggling but acknowledging I need support.",2024-01-29
+STU011,5,7,8,"Final year and everything is going according to plan. Industry projects are exciting and relevant.",2024-01-15
+STU011,4,6,7,"Some pressure from placement season but handling it well. Multiple interview opportunities.",2024-01-22
+STU011,5,7,8,"Got placed! Feeling on top of the world. Hard work and persistence paid off!",2024-01-29
+STU012,3,5,6,"Average week. Not particularly motivated but not struggling either. Need to find my passion.",2024-01-15
+STU012,3,4,6,"Same as usual. Going through the motions. Feeling somewhat disconnected from my studies.",2024-01-22
+STU012,4,5,7,"Joined a coding club and feeling more engaged. Maybe I needed more social interaction.",2024-01-29
+STU013,5,6,8,"First year is wonderful! Love learning about electronics. Made great friends in my class.",2024-01-15
+STU013,5,7,8,"Scored highest in my batch! Feeling so proud and motivated to keep up the good work.",2024-01-22
+STU013,4,6,7,"Slight dip in energy but overall still positive. Looking forward to the upcoming events.",2024-01-29
+STU014,2,3,5,"Mechanical engineering is not what I expected. Feeling regretful about my choice. Very stressed.",2024-01-15
+STU014,2,2,4,"Poor performance in tests. Parents are disappointed and I feel like a failure.",2024-01-22
+STU014,3,4,5,"Trying to improve. Taking extra classes. Still stressed but slightly more hopeful.",2024-01-29
+STU015,5,8,7,"AI is my passion and I'm living the dream. Research paper got accepted! Ecstatic!",2024-01-15
+STU015,5,9,7,"Conference presentation went well. Received great feedback. Feeling like a true professional.",2024-01-22
+STU015,5,8,8,"Perfect way to end my college journey. Multiple job offers and feeling grateful.",2024-01-29
+STU016,4,5,6,"Good week overall. Electronics is interesting when I understand it. Need more practice.",2024-01-15
+STU016,3,4,6,"Midterms are stressful. Studying hard but worried about results. Feeling anxious.",2024-01-22
+STU016,4,5,7,"Midterms over and results were okay. Relief and getting back to normal routine.",2024-01-29
+STU017,3,4,6,"First year adjustments are hard. Missing home and finding coursework challenging.",2024-01-15
+STU017,3,4,5,"Still adjusting. Made a few friends which helps. Coursework is getting slightly easier.",2024-01-22
+STU017,4,5,6,"Feeling more at home now. Understanding the subjects better. Optimistic about the future.",2024-01-29
+STU018,4,6,7,"Programming comes naturally to me. Enjoying the learning process and the challenges.",2024-01-15
+STU018,4,5,7,"Good week. Completed a side project successfully. Feeling accomplished and motivated.",2024-01-22
+STU018,5,6,8,"Great momentum! Building a portfolio and thinking about internships. Excited for opportunities.",2024-01-29
+STU019,5,7,7,"VLSI is fascinating! Final year project is progressing well. Feeling confident about my skills.",2024-01-15
+STU019,4,6,7,"Some deadlines are stressing me out but I'm managing. Good time management helps.",2024-01-22
+STU019,5,7,8,"Project completed successfully! Ready for the viva. Feeling proud of my work.",2024-01-29
+STU020,3,4,6,"Engineering is harder than I thought. Struggling with some concepts. Need more study time.",2024-01-15
+STU020,3,4,5,"Continued struggles but I'm persevering. Found a study group which helps a lot.",2024-01-22
+STU020,3,5,6,"Slight improvement. Still not where I want to be but making progress slowly.",2024-01-29
+STU021,1,2,4,"I don't belong in computer science. Can't understand programming at all. Feeling completely lost.",2024-01-15
+STU021,1,1,3,"Considering dropping out. Can't cope with the pressure. Feeling worthless and hopeless.",2024-01-22
+STU021,2,2,4,"Had a long talk with my advisor. Exploring other options. Still struggling but getting support.",2024-01-29
+STU022,4,5,6,"Electronics is interesting. Enjoying the practical labs. Feeling good about my choice.",2024-01-15
+STU022,4,5,7,"Consistent progress this week. Building good fundamentals. Feeling steady and focused.",2024-01-22
+STU022,4,6,7,"On track with everything. Good balance between studies and extracurriculars. Happy overall.",2024-01-29
+STU023,5,6,7,"Final year is challenging but rewarding. CAD projects are very interesting and practical.",2024-01-15
+STU023,4,6,7,"Placement preparations are stressful but manageable. Good support from peers.",2024-01-22
+STU023,5,7,8,"Got placed in a good company! All the hard work was worth it. Feeling relieved and happy.",2024-01-29
+STU024,4,5,6,"Graphics and OS are my favorite subjects. Enjoying the creative aspects of computer science.",2024-01-15
+STU024,3,4,6,"Compiler design is tough. Need to put in extra effort. Feeling challenged.",2024-01-22
+STU024,4,5,7,"Better understanding now after extra study. Feeling more confident about the subject.",2024-01-29
+STU025,2,3,5,"Everything is confusing. First year is overwhelming. Feeling scared and uncertain.",2024-01-15
+STU025,2,2,4,"Not coping well. Attendance dropping because I don't want to face the confusion.",2024-01-22
+STU025,3,3,5,"Started attending peer tutoring. Things are slightly clearer but still anxious about exams.",2024-01-29
+STU026,3,4,6,"Mechanical subjects require a lot of memorization. Feeling the pressure of coursework.",2024-01-15
+STU026,3,4,5,"Midterms didn't go well. Need to change study strategy. Feeling frustrated.",2024-01-22
+STU026,4,5,6,"Implemented new study methods. Seeing gradual improvement. Feeling more optimistic.",2024-01-29
+STU027,5,7,7,"Big data is so interesting! Love working with large datasets. Feeling intellectually stimulated.",2024-01-15
+STU027,5,8,8,"Research project going well. Might publish a paper. Extremely motivated and happy!",2024-01-22
+STU027,5,7,8,"Everything falling into place for graduation. Feeling grateful for the learning experience.",2024-01-29
+STU028,4,5,6,"RF is complex but interesting. Lab work is the highlight of my week.",2024-01-15
+STU028,3,4,6,"Theory classes are tough. Need more practical understanding. Feeling a bit overwhelmed.",2024-01-22
+STU028,4,5,7,"Found great YouTube resources that explain things well. Feeling more confident now.",2024-01-29
+STU029,2,3,5,"First year is harder than school. Struggling to adapt to the teaching style.",2024-01-15
+STU029,2,2,4,"Falling behind in multiple subjects. Feeling anxious about catching up.",2024-01-22
+STU029,3,4,5,"Got a mentor who is helping. Slowly catching up. Still stressed but hopeful.",2024-01-29
+STU030,4,6,7,"Really enjoying programming! Python and Java are fun to learn. Feeling accomplished.",2024-01-15
+STU030,5,7,7,"Built my first web app this week! So excited about what I can create.",2024-01-22
+STU030,5,6,8,"Consistent progress. Contributing to open source. Feeling like a real developer!",2024-01-29

@@ -1,0 +1,31 @@
+student_id,name,email,department,year,gender
+STU001,Alice Johnson,alice.johnson@university.edu,Computer Science,3,Female
+STU002,Bob Smith,bob.smith@university.edu,Computer Science,2,Male
+STU003,Carol Davis,carol.davis@university.edu,Electronics,4,Female
+STU004,David Wilson,david.wilson@university.edu,Mechanical,3,Male
+STU005,Eva Martinez,eva.martinez@university.edu,Computer Science,1,Female
+STU006,Frank Brown,frank.brown@university.edu,Electronics,2,Male
+STU007,Grace Lee,grace.lee@university.edu,Computer Science,4,Female
+STU008,Henry Taylor,henry.taylor@university.edu,Mechanical,1,Male
+STU009,Ivy Chen,ivy.chen@university.edu,Electronics,3,Female
+STU010,Jack Anderson,jack.anderson@university.edu,Computer Science,2,Male
+STU011,Kate Williams,kate.williams@university.edu,Mechanical,4,Female
+STU012,Leo Garcia,leo.garcia@university.edu,Computer Science,3,Male
+STU013,Mia Robinson,mia.robinson@university.edu,Electronics,1,Female
+STU014,Noah Clark,noah.clark@university.edu,Mechanical,2,Male
+STU015,Olivia White,olivia.white@university.edu,Computer Science,4,Female
+STU016,Peter Hall,peter.hall@university.edu,Electronics,3,Male
+STU017,Quinn Adams,quinn.adams@university.edu,Mechanical,1,Female
+STU018,Ryan Moore,ryan.moore@university.edu,Computer Science,2,Male
+STU019,Sophia King,sophia.king@university.edu,Electronics,4,Female
+STU020,Thomas Wright,thomas.wright@university.edu,Mechanical,3,Male
+STU021,Uma Patel,uma.patel@university.edu,Computer Science,1,Female
+STU022,Victor Scott,victor.scott@university.edu,Electronics,2,Male
+STU023,Wendy Young,wendy.young@university.edu,Mechanical,4,Female
+STU024,Xavier Lopez,xavier.lopez@university.edu,Computer Science,3,Male
+STU025,Yara Nelson,yara.nelson@university.edu,Electronics,1,Female
+STU026,Zach Hill,zach.hill@university.edu,Mechanical,2,Male
+STU027,Amber Collins,amber.collins@university.edu,Computer Science,4,Female
+STU028,Blake Turner,blake.turner@university.edu,Electronics,3,Male
+STU029,Chloe Phillips,chloe.phillips@university.edu,Mechanical,1,Female
+STU030,Dylan Campbell,dylan.campbell@university.edu,Computer Science,2,Male

@@ -1,0 +1,121 @@
+student_id,subject,subject_marks,attendance_percentage,assignment_scores,internal_exam_scores,semester
+STU001,Data Structures,85,92,88,82,5
+STU001,Algorithms,78,88,80,75,5
+STU001,Database Systems,90,95,92,88,5
+STU001,Web Development,82,85,78,80,5
+STU002,Data Structures,72,78,70,68,3
+STU002,Algorithms,65,72,62,60,3
+STU002,Database Systems,68,75,65,62,3
+STU002,Web Development,75,82,72,70,3
+STU003,Digital Electronics,88,90,85,86,7
+STU003,Microprocessors,92,94,90,91,7
+STU003,Signal Processing,85,88,82,84,7
+STU003,VLSI Design,80,85,78,82,7
+STU004,Thermodynamics,70,75,68,65,5
+STU004,Fluid Mechanics,65,70,60,58,5
+STU004,Machine Design,72,78,70,68,5
+STU004,Manufacturing,68,72,65,62,5
+STU005,Programming Fundamentals,95,98,96,94,1
+STU005,Mathematics I,88,92,85,86,1
+STU005,Physics,82,85,80,78,1
+STU005,Communication Skills,90,88,92,88,1
+STU006,Circuit Theory,58,62,55,52,3
+STU006,Electronics,62,68,58,55,3
+STU006,Digital Logic,55,58,50,48,3
+STU006,Signals,60,65,55,52,3
+STU007,Machine Learning,92,96,94,90,7
+STU007,Deep Learning,88,92,85,88,7
+STU007,Natural Language Processing,95,98,92,94,7
+STU007,Computer Vision,90,94,88,86,7
+STU008,Engineering Drawing,78,82,75,72,1
+STU008,Mathematics I,72,75,68,65,1
+STU008,Physics,75,78,70,68,1
+STU008,Workshop Practice,80,85,78,76,1
+STU009,Analog Electronics,82,86,80,78,5
+STU009,Communication Systems,78,82,75,72,5
+STU009,Embedded Systems,85,88,82,80,5
+STU009,Control Systems,80,84,78,76,5
+STU010,Object Oriented Programming,45,52,42,40,3
+STU010,Data Structures,48,55,45,42,3
+STU010,Computer Networks,50,58,48,45,3
+STU010,Operating Systems,52,60,50,48,3
+STU011,Industrial Engineering,88,92,85,86,7
+STU011,Robotics,92,95,90,88,7
+STU011,Automation,85,88,82,84,7
+STU011,Quality Control,90,92,88,86,7
+STU012,Software Engineering,75,80,72,70,5
+STU012,Database Systems,72,78,68,65,5
+STU012,Computer Networks,78,82,75,72,5
+STU012,Web Development,80,85,78,76,5
+STU013,Basic Electronics,88,92,85,86,1
+STU013,Mathematics I,82,85,80,78,1
+STU013,Physics,85,88,82,84,1
+STU013,Engineering Drawing,78,82,75,72,1
+STU014,Engineering Mechanics,62,68,58,55,3
+STU014,Thermodynamics,58,62,54,50,3
+STU014,Materials Science,65,70,62,58,3
+STU014,Manufacturing,60,65,55,52,3
+STU015,Artificial Intelligence,94,98,92,90,7
+STU015,Data Mining,90,94,88,86,7
+STU015,Cloud Computing,88,92,85,82,7
+STU015,Cybersecurity,92,96,90,88,7
+STU016,Power Electronics,72,78,68,65,5
+STU016,Control Systems,75,80,72,70,5
+STU016,Instrumentation,78,82,75,72,5
+STU016,Microcontrollers,80,85,78,76,5
+STU017,Engineering Drawing,70,75,68,65,1
+STU017,Mathematics I,65,70,62,58,1
+STU017,Physics,68,72,65,62,1
+STU017,Workshop Practice,72,78,68,65,1
+STU018,Data Structures,82,88,80,78,3
+STU018,Algorithms,78,82,75,72,3
+STU018,Database Systems,85,90,82,80,3
+STU018,Web Development,80,85,78,76,3
+STU019,VLSI Design,90,94,88,86,7
+STU019,Embedded Systems,92,96,90,88,7
+STU019,Wireless Communication,88,92,85,82,7
+STU019,IoT,85,88,82,80,7
+STU020,Heat Transfer,68,72,65,62,5
+STU020,Machine Design,72,78,68,65,5
+STU020,Dynamics,65,70,60,58,5
+STU020,Production Engineering,70,75,68,65,5
+STU021,Programming Fundamentals,40,45,38,35,1
+STU021,Mathematics I,42,48,40,38,1
+STU021,Physics,45,50,42,40,1
+STU021,Communication Skills,48,52,45,42,1
+STU022,Electronics Devices,78,82,75,72,3
+STU022,Digital Circuits,82,86,80,78,3
+STU022,Signals and Systems,75,80,72,68,3
+STU022,Network Analysis,80,84,78,76,3
+STU023,CAD/CAM,85,90,82,80,7
+STU023,Finite Element Analysis,88,92,85,82,7
+STU023,Mechatronics,82,86,80,78,7
+STU023,Project Management,90,94,88,86,7
+STU024,Computer Graphics,76,80,74,72,5
+STU024,Operating Systems,72,78,70,68,5
+STU024,Compiler Design,78,82,76,74,5
+STU024,Distributed Systems,74,78,72,70,5
+STU025,Basic Electronics,52,58,48,45,1
+STU025,Mathematics I,55,60,52,48,1
+STU025,Physics,58,62,55,52,1
+STU025,Engineering Drawing,50,55,48,45,1
+STU026,Strength of Materials,68,74,65,62,3
+STU026,Fluid Mechanics,72,78,68,65,3
+STU026,Thermodynamics,65,70,62,58,3
+STU026,Manufacturing,70,75,68,65,3
+STU027,Big Data Analytics,88,92,85,82,7
+STU027,Information Security,92,96,90,88,7
+STU027,Blockchain,85,88,82,80,7
+STU027,Quantum Computing,80,85,78,76,7
+STU028,RF Engineering,75,80,72,68,5
+STU028,Antenna Design,78,82,75,72,5
+STU028,Optical Communication,72,78,68,65,5
+STU028,Satellite Communication,80,85,78,76,5
+STU029,Engineering Mechanics,58,62,55,52,1
+STU029,Mathematics I,55,60,52,48,1
+STU029,Physics,60,65,58,55,1
+STU029,Workshop Practice,62,68,60,58,1
+STU030,Python Programming,85,90,82,80,3
+STU030,Java Programming,82,86,80,78,3
+STU030,Web Technologies,88,92,85,82,3
+STU030,Mobile Development,80,85,78,76,3
